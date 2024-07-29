@@ -1,2 +1,2 @@
-# Machine-Learning-
+# Machine-Learning
 submission of projects and assignments 
